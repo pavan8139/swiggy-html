@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+     <meta charset="utf-8">
+
+          </head>
+                          <title>REGISTRATION FORM IF YOU ARE NEW TO SWIGGY</title>
+
+     <style>
+       body{
+background-image:url('SWIGGYLOGINPAGEBG.jpg');
+background-size:cover;
+	}
+        h3{
+            font-size: 20pt;
+        }
+    </style>
+<body>
+    <form method="post" action=" ">
+        <div class="box">
+           <h2>THANK YOU FOR VISITING OUR WEBSITE...!!! </h2>
+      
+    </body>
+</html>
